@@ -1,4 +1,3 @@
-// ShowSummary.jsx
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import LocalStorage from "../assets/utils/localStorage";
