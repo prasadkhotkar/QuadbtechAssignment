@@ -140,7 +140,7 @@ body {
   
   /* Responsive styles */
   @media screen and (max-width: 600px) {
-      .showDetails {
+      .showSummary {
           padding: 15px;
       }
   
