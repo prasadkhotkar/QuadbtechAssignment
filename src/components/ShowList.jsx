@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import "../styles/showList.css";
+import "../styles/ShowList.css";
 
 const ShowList = () => {
   const [shows, setShows] = useState([]);
